@@ -1,0 +1,131 @@
+.body-container-wrapper{
+position: absolute;
+width: 2006px;
+height: 707px;
+left: 0px;
+top: -3px;
+
+background: url(.jpg);
+filter: blur(25px);
+}
+.henden{
+position: absolute;
+width: 875.34px;
+height: 598.34px;
+left: 562px;
+top: 66px;
+
+background: url(.jpg);
+border: 2px solid #231F1F;	
+}
+.photogallery{
+position: absolute;
+width: 167px;
+height: 19px;
+left: 730px;
+top: 23px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+
+color: #231F1F;
+}
+.texttt{
+position: absolute;
+width: 582.09px;
+height: 200.33px;
+left: 855.25px;
+top: 97.69px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 120px;
+line-height: 160px;
+
+color: #231F1F;
+
+}
+.interes{
+position: absolute;
+width: 180px;
+height: 27px;
+left: 878px;
+top: 23px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+
+color: #231F1F;
+}
+.opis{
+position: absolute;
+width: 119px;
+height: 22px;
+left: 1072px;
+top: 23px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+
+color: #231F1F;
+}
+.marshrut{
+position: absolute;
+width: 163px;
+height: 25px;
+left: 1191px;
+top: 23px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+
+color: #231F1F;
+
+}
+.proshivanie{
+position: absolute;
+width: 242px;
+height: 30px;
+left: 1320px;
+top: 23px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 27px;
+
+color: #231F1F;
+}
+
+
+
+p{
+position: absolute;
+width: 1125px;
+height: 176px;
+left: 437px;
+top: 704px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 60px;
+text-align: center;
+
+color: #231F1F;
+}
